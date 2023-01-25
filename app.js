@@ -6,12 +6,12 @@ const login = () {
 }
 
 const f = () {
-    console.log("f function");
+    console.log("any function");
 }
 
 const validate = () {
-    // master branch
-    for (i = 0; i < 100; i++) {
-        console.log(i);
+    // error branch
+    for (x=0; x < 10; x++) {
+        console.log(x);
     }
 }

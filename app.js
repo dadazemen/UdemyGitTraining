@@ -1,11 +1,11 @@
 console.log("Hello");
 
-const login() {
+const login = () {
     const elem = document.getElementById("user");
     const pwd = document.getElementById("pwd");
 }
 
-const f = (){
+const f = () {
     console.log("f function");
 }
 

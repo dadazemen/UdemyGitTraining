@@ -6,3 +6,5 @@ Kommentar am 26.1.
 
 
 Git pull
+
+git fetch
